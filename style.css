@@ -9,6 +9,7 @@
 body{
     width: 800px;
     margin: auto;
+  
 }
 nav{
     display: flex;
@@ -142,4 +143,12 @@ header p{
   width: 30px;
   height: 30px;
   display: block; 
+}
+
+footer{
+    margin-top: 150px;
+    text-align:center;
+    font-weight: 300;
+    color: grey;
+
 }
